@@ -7,7 +7,8 @@ If using on Windows you need to install git bash for windows https://gitforwindo
 Check your version of chrome using the following instrucions:
 
 1. Open Chrome and open the Chrome settings. Click 'Help' > 'About Google Chrome'. A new window will appear with your Version of google chrome.
-![](https://github.com/afatt/get-recipes/blob/master/google_settings.png)
+
+  ![](https://github.com/afatt/get-recipes/blob/master/google_settings.png)
 
 2. This tool uses Chrome Version (84.0.4147.89) as its chromedriver.exe. If your Chrome version is older than the one listed, then update Chrome or find the chromedriver.exe that matches your Version here https://chromedriver.chromium.org/downloads
 
