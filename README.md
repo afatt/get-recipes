@@ -20,7 +20,9 @@ Check your version of chrome using the following instrucions:
 
 2. Type the following command in the terminal: ```git clone https://github.com/afatt/get-recipes.git```
   
-2. Then install the python dependencies: ```python setup.py```
+3. Navigate into the get-recipes folder: ```cd get-recipes```
+
+4. Then install the python dependencies: ```python setup.py install```
 
 ## How to Use
 
