@@ -29,7 +29,14 @@ Check your version of chrome using the following instrucions:
   
 3. Navigate into the get-recipes folder: ```cd get-recipes```
 
-4. Then install the python dependencies: ```python setup.py install```
+4. Install your dependencies (run all four commands separatly in the bash terminal):
+  ```pip install pillow```,
+  ```pip install pypng```, 
+  ```pip install pyzbar```, 
+  ```pip install selenium```
+
+5. Test it out and install the Mexican tacos recipe: ```python get_recipe.py```
+  - should install the pdf in your Downloads folder
 
 ## How to Use
 
