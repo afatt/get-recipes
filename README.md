@@ -10,7 +10,7 @@ Check your version of chrome using the following instrucions:
 
   ![](https://github.com/afatt/get-recipes/blob/master/google_settings.png)
 
-2. This tool uses Chrome Version (84.0.4147.89) as its chromedriver.exe. If your Chrome version is older than the one listed, then update Chrome or find the chromedriver.exe that matches your Version here https://chromedriver.chromium.org/downloads
+2. This script uses Chrome Version (84.0.4147.89) as its chromedriver.exe. If your Chrome version is older than (84.0.4147.89), then update Chrome or find the chromedriver.exe that matches your Version here https://chromedriver.chromium.org/downloads
 
   - If you downloaded a new chromedriver.exe find it and replace the chromedriver.exe in /get-recipes after following the Getting Started instructions below
 
