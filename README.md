@@ -2,8 +2,15 @@
 
 ## Pre-Requisits
 
+#### Install Git-Bash
 If using on Windows you need to install git bash for windows https://gitforwindows.org/
 
+#### Install Python 3.7.3
+Install python version 3.7.3 from this link https://www.python.org/downloads/release/python-373/
+  - choose the 'Windows x86-64 executable installer' option under Files
+  - Run the exectuable and make sure to check the 'Add Python 3.7 to PATH' checkbox
+
+#### Getting the right Chrome Driver
 Check your version of chrome using the following instrucions:
 
 1. Open Chrome and open the Chrome settings. Click 'Help' > 'About Google Chrome'. A new window will appear with your Version of google chrome.
