@@ -8,7 +8,7 @@ REQUIRES = [
     'pypng==0.0.20',
     'pyzbar==0.1.8',
     'selenium==3.141.0',
-    'urllib3==1.25.9'
+    'urllib3==1.26.5'
 ]
 
 setup(
