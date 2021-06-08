@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 __version__ = '1.0.0'
 
 REQUIRES = [
-    'Pillow==7.2.0',
+    'Pillow==8.2.0',
     'pypng==0.0.20',
     'pyzbar==0.1.8',
     'selenium==3.141.0',
